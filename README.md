@@ -2,9 +2,9 @@
 
 ## LINK TO LIVE
 
-You can see the GeoJSON displayed [here](https://de-mark.github.io/tutoring__tabular_to_geojson/).
+You can see the GeoJSON displayed [here](https://dsp-mark.github.io/tutoring__tabular_to_geojson/).
 
-You can see the notebook for translating the table to geoJSON [here](https://github.com/de-mark/tutoring__tabular_to_geojson/blob/main/02__tabular_to_geojson.ipynb).
+You can see the notebook for translating the table to geoJSON [here](https://github.com/dsp-mark/tutoring__tabular_to_geojson/blob/main/02__tabular_to_geojson.ipynb).
 
 
 ![Example Screenshot of GeoJSON displayed](screenshot/example.png)
@@ -38,6 +38,6 @@ Remember, in RFC 7946, each marker follows the following structure:
 
 We can transform our tabular data into this format.
 
-__CREATING THE DATA__ Can be found [here](https://github.com/de-mark/tutoring__tabular_to_geojson/blob/main/01__building_initial_tabular_data.ipynb)
+__CREATING THE DATA__ Can be found [here](https://github.com/dsp-mark/tutoring__tabular_to_geojson/blob/main/01__building_initial_tabular_data.ipynb)
 
-__TURNING THE TABULAR DATA INTO GEOJSON__ Can be found [here](https://github.com/de-mark/tutoring__tabular_to_geojson/blob/main/02__tabular_to_geojson.ipynb)
+__TURNING THE TABULAR DATA INTO GEOJSON__ Can be found [here](https://github.com/dsp-mark/tutoring__tabular_to_geojson/blob/main/02__tabular_to_geojson.ipynb)
